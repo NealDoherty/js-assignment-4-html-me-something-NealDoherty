@@ -2,3 +2,8 @@
 head {
     text-decoration: underline;
   }
+
+ body
+{background-color: yellow;
+/*text-align:center;*/
+}
