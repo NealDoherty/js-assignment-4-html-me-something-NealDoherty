@@ -2,16 +2,52 @@
 header
 {    
     text-align:center;
-    font-size: x-large;
-    
+    font-size: 40px;    
 }
-
 
 body
 {
-    background-color: green;
+    background-color: black;
+    color: white;
+    margin-left: 8px;
+    display: block;
 }
 
-h2{
+#mainHeading
+{
+    color: red;
+}
+
+h2
+{
     text-decoration: underline;
+}
+
+p 
+{
+    margin-left: 25px;
+    margin-right: 800px;
+}
+
+
+#testP.funParagraph
+{
+    color:green;
+}
+
+img 
+{
+    width: 300px;
+    height: 200px;
+}
+
+#Olsson 
+{
+    width: 400px !important;
+    height: 200px !important;
+}
+
+footer 
+{
+    padding-left: 600px;
 }
