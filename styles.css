@@ -1,10 +1,17 @@
 /* Write your CSS here! */
-title
-{
-    text-decoration: underline;
+header
+{    
+    text-align:center;
+    font-size: x-large;
+    
 }
+
 
 body
 {
-    background-color: yellow;
+    background-color: green;
+}
+
+h2{
+    text-decoration: underline;
 }
